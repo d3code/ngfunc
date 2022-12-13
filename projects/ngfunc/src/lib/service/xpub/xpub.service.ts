@@ -1,5 +1,5 @@
 import { Injectable } from '@angular/core';
-import { chngVerBytes } from './xpub.vendor'
+import { chngVerBytes } from './xpub.service.vendor'
 
 @Injectable({
   providedIn: 'root'

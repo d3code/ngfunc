@@ -8,7 +8,6 @@ A ypub is a form of extended public key (xpub) which follows an additional stand
 
 P2WPKH addresses are SegWit addresses, but in order to maintain backwards compatibility, SegWit addresses can be wrapped in P2SH addresses in order to allow older wallets to send to SegWit addresses.
 
-
 ```ts
 import { xpubConvert } from 'ngfunc';
 
